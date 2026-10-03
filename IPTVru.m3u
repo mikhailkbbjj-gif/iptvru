@@ -504,3 +504,6 @@ http://rusradio.hostingradio.ru/rusradio96.aacp
 http://hitfm.hostingradio.ru/hitfm96.aacp
 #EXTINF:-1 tvg-id="yumor-fm" tvg-logo="https://epgx.site/p/yumor-fm.png" group-title="Радио" radio="true",Юмор FM
 https://pub0301.101.ru:8443/stream/air/mp3/256/102
+EXTINF:-1 tvg-id="russky-bestseller" tvg-name="Русский Бестселлер" group-title="Фильмовые", Русский Бестселлер
+#EXTGRP:Фильмовые
+http://31.148.48.15:80/Russkiy_Bestseller/index.m3u8?token=test
